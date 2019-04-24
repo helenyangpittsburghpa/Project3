@@ -15,7 +15,13 @@ Escape from Extraterrestrial allows you to collect points from defeating the inv
 * Collect coins which are worth 1 point
 * Defeat enemies(drone) which are worth 5 points
 * Defeat enemies(ufo) which are worth 10 points
+* Obtain at least 20 points and go into the exit door to win 
+* 5 lives
+* enemies(ufo) abducts the player which equals instant death
+* enemies(drone) deals 1 damage to the player
 
+
+## Gallery
 
 ![new5](https://user-images.githubusercontent.com/44321973/56674101-71f4d680-6687-11e9-8610-c4ed9bdee1f0.PNG)
 ![new3](https://user-images.githubusercontent.com/44321973/56674229-a36da200-6687-11e9-8176-cfd43099bb90.PNG)
