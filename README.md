@@ -23,7 +23,7 @@ Escape from Extraterrestrial allows you to collect points from defeating the inv
 
 ## Gallery
 
-![new5](https://user-images.githubusercontent.com/44321973/56674101-71f4d680-6687-11e9-8610-c4ed9bdee1f0.PNG)
+![sfhk](https://user-images.githubusercontent.com/44321973/56691620-610b8b80-66ae-11e9-9583-f37a7b36fe28.PNG)
 ![new2](https://user-images.githubusercontent.com/44321973/56674250-ac5e7380-6687-11e9-99d2-4bad471dba7f.PNG)
 ![new3](https://user-images.githubusercontent.com/44321973/56674229-a36da200-6687-11e9-8176-cfd43099bb90.PNG)
 ![new4](https://user-images.githubusercontent.com/44321973/56674183-905ad200-6687-11e9-9cbe-734245c8a349.PNG)
