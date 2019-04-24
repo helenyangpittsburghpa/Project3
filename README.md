@@ -4,7 +4,7 @@
 
 It is the year 21xx and the extraterrestrial took over in a small town. Many of the townspeople were abducted by these aliens. As the only one left in this town, you are trying to escape; however, you are blocked by the escape door.
 
-Escape from Extraterrestrial allows you to collect points from defeating the invaders and collecting coins, which allows you to escape from the exit door once you gain enough points.
+Escape from Extraterrestrial allows you to collect points from defeating the invaders and collecting coins(by throwing cheese since it is their only weakness), which allows you to escape from the exit door once you gain enough points.
 
 ## Game Features:
 * WD / Left and Right keys to rotate left and right respectively
@@ -30,4 +30,9 @@ Escape from Extraterrestrial allows you to collect points from defeating the inv
 
 
 ## Summary
-For this Project, I used nav mesh agent on 2 different enemies(the drones and the ufos).The enemies will follow the player. I used many different assests from the asset store, such as the player from ToonyTinyPeople(and ThirdPersonController from the standard asset store), the buildings,road, streets are from sample city plain, the drone is from Sci_fi_Drones, the cheese is from Free Food Pack, and etc. There are two rectangles UI, one(the red one) measure the strength of the player's throw, the other showed the max strength a player can throw. If the player holds the J key long enough and went over the max strength, the strength will loop back. The goal of this game is to collect 20 or more points from defeating enemies(drones and/or ufos) and/or collecting coins, and after earning enough points, go into a white door that is connected to a blueish-greenish building (on top of the building is the word EXIT).  
+For this Project, I used nav mesh agent on 2 different enemies(the drones and the ufos).The enemies will follow the player. I used many different assests from the asset store, such as the player from ToonyTinyPeople(and ThirdPersonController from the standard asset store), the buildings,road, streets are from sample city plain, the drone is from Sci_fi_Drones, the cheese is from Free Food Pack, and etc. 
+
+For the graphical UI: There are two rectangles UI, one(the red one) measure the strength of the player's throw, the other showed the max strength a player can throw. If the player holds the J key long enough and went over the max strength, the strength will loop back.
+
+I got this idea(where these extraterrestrial are afriad of cheese) from asdfmovie4: https://www.youtube.com/watch?v=tjK9oWAAs50
+The goal of this game is to collect 20 or more points from defeating enemies(drones and/or ufos) and/or collecting coins, and after earning enough points, go into a white door that is connected to a blueish-greenish building (on top of the building is the word EXIT).  
