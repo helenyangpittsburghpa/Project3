@@ -28,3 +28,6 @@ Escape from Extraterrestrial allows you to collect points from defeating the inv
 ![new3](https://user-images.githubusercontent.com/44321973/56674229-a36da200-6687-11e9-8176-cfd43099bb90.PNG)
 ![new4](https://user-images.githubusercontent.com/44321973/56674183-905ad200-6687-11e9-9cbe-734245c8a349.PNG)
 
+
+## Summary
+For this Project, I used nav mesh agent on 2 different enemies(the drones and the ufos).The enemies will follow the player. 
